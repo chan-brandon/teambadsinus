@@ -101,3 +101,21 @@ h3 {
 }
 
 /* End Members Page */
+
+/* About page */
+
+.about-middle-container {
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+  padding: 21% 0 0 0;
+}
+
+.about-middle-container-center {
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+  font-size: 0.7rem;
+  position: relative;
+  top: 20px;
+}
+
+/* End About Page */
